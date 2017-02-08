@@ -1,2 +1,2 @@
-# hello-word-github
-My first repository !
+# hello-word-github TER
+Ceci est mon premier dépôt GitHub.
